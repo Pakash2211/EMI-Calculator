@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+
+.upper{
+ 
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(255, 255, 255, 0.712);
+  align-items: center;
+  justify-content: space-between;
+  width: 70%;
+  padding: 20px;
+  margin: 10px auto;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.review{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: space-between;
+
+}
+.alldata{
+  display: grid;
+  grid-template-columns:repeat(3,1fr);
+  width: 100%;
+
+  margin: auto;
+}
+.emititle{
+  color :rgb(50, 116, 215);
+  text-decoration: underline;
+}

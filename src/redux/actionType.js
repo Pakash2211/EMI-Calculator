@@ -1,0 +1,4 @@
+const READ_DATA = "READ";
+const UPDATE_DATA = "UPDATE";
+
+export{READ_DATA,UPDATE_DATA};
