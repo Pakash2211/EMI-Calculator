@@ -5,18 +5,6 @@ Start the App ---> npm start
 
 
 
-Tech-Stack ---->  Reactjs
-           ----> Material Ui
-           ----> Redux
-           ----> LocalStorage
-
-
-
-Feacture   ----> Calculate EMI easy
-           ----> Each Month EMI Table
-           ----> Show all previous search
-           ----> wonderful Ui
-           -----> Quick load
 
 -----> Ckick on search its show all the previous history
 -----> click on EMI Table Button its show indidual EMI MONTH Table
